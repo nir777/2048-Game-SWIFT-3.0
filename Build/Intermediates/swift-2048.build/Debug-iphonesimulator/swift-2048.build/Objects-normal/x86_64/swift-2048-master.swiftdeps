@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c90f411b5e69fd93678d52e4dabf3a10"
+build_time: [546681862, 666459000]
+inputs:
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/NumberTileGame.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/Views/AccessoryViews.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/Views/TileView.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/ViewController.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/AppearanceProvider.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/AppDelegate.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/Models/GameModel.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/Models/AuxiliaryModels.swift": [541696066, 0]
+  "/Users/apple-1/Downloads/swift-2048-master/swift-2048/Views/GameboardView.swift": [541696066, 0]
